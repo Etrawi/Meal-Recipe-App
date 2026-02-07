@@ -5,7 +5,7 @@ A modern, responsive web application that allows users to discover delicious rec
 ## 🔗 Live Demo
 > **[Click here to view the live website](https://etrawi.github.io/Meal-Recipe-App/)**
 
-![Project Screenshot](./assets/images/hero-Illustration.png)
+![Meal Recipe App Screenshot](./image.png)
 *(Note: You can replace the path above with a screenshot of your actual app if available)*
 
 ## ✨ Features
